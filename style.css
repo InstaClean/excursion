@@ -1,0 +1,32 @@
+body {
+    font-family: Verdana;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+header h1 {
+    font-size: 50px;
+    font-weight: normal;
+    color: white;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+footer {
+    text-align: right;
+    color: gray;
+}
+
+.phone h1 {
+    font-size: 42px;
+
+}
+
+.phone p {
+    color: gray;
+    font-size: 21px;
+}
